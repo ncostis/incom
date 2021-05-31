@@ -1,0 +1,100 @@
+*::-webkit-scrollbar { background-color: #f9f9f9;}
+*::-webkit-scrollbar-thumb { background-color: #8d9195; }
+.cLight{color:#434343;}
+a.cLight:hover{color:#3da8e5;}
+.cColor{color:#3da8e5;}
+.cGPastel{color:#72bcad;}
+.cMedium{color:#8d9195;}
+a.cMedium:hover{color:#3da8e5;}
+.cDefault{color:#434343;}
+a.cDefault:hover, .formLabel .colInput:hover{color:#3da8e5;}
+.cRed{color:#d24b4b;}
+a.cRed:hover{color:#d24b4b;}
+.cGreen{color:#8dc466;}
+.bgColor{background-color:#3da8e5;}
+a.bgColor:hover, input.bgColor:hover{background-color:#47aee8}
+.bgContent, html.cmspopup, .cmspopup body{background-color:#f9f9f9;}
+.bgRed{background-color:#d24b4b;}
+a.bgRed:hover, input.bgRed:hover{background-color:#d84f4f;}
+.bgLight{background-color:#f6f6f6;}
+a.bgLight:hover{background-color:#fafafa;}
+.bgLighter{background-color:#fff;}
+.cTextheadRow{color:#ffffff;}
+.bgheadRows{background-color:#3392db;}
+.bgTempHeadRow{background-color:#e2e0e0;}
+.bgSortableRow{background-color:#efefef;}
+.sep-dots {border-bottom:1px dotted #a5a6aa;}
+.bgPreviewCol{background-color:#e2e0e0;}
+.borderPrBox{border:2px solid #fff;}
+.borderPrBox:hover{border:2px solid #3392db;}
+.borderPrColInt{border-left:6px solid #efefef;}
+.dTempCode{display:inline-block; border:2px solid #444;background-color:#fbfbfb !important; padding:3px 27px 3px 20px;margin:auto;}
+.bgMedium{background-color:#dfdfdf;}
+.bgDark{background-color:#f9f9f9;}
+a.bgDark:hover{background-color:#fff;}
+a.btn.bgDark.active{background-color:#fff;}
+.bgGreen{background-color:#8dc466;}
+a.bgGreen:hover, input.bgGreen:hover{background-color:#91c96a;}
+.bgOrange{background-color:#ff9057}
+a.bgOrange:hover, input.bgOrange:hover{background-color:#ff9a66}
+a.cLight.active{color:#3da8e5;}
+a.menuTopTab.cLight.active{color:#f6f6f6}
+a.admLink.cLight:not(.btn):hover{color:#3da8e5;}
+html,body{color:#434343;background-color:#dfdfdf;}
+.fancybox-skin{background-color:#333 !important;}
+.admMenuPanel:hover .leftBackTitle.cMedium{color:#8d9195}
+.menuTabs a.active{background-color:#3da8e5;}
+.formField, textarea, .chosen-single, .chosen-drop{border-color:#d3d6d8 !important;color:#434343 !important;background-color:#fff !important;}
+.formField:focus, .chosen-container-active .chosen-single, .chosen-container-active .chosen-drop{border-color:#2094d6 !important;}
+.formField.bgDark{border-color:#8d9195 !important;}
+.formField.cLight{color:#f6f6f6 !important;}
+.ADMImageBorder{background-color:#fff;}
+.borderLight{border-color:#e6e6e6;}
+.borderMedium{border-color:#8d9195;}
+.borderDark{border-color:#dfdfdf;}
+.categoriesSitemap:hover{background:#f6f6f6;}
+.recordRowContainer:hover{background:#f6f6f6;}
+.cssCont:hover{background:#f6f6f6;}
+.recordRowContainer.active{background-color:rgba(234,245,251,.5);}
+.categoryDetails{background-color:#e6e6e6;}
+.rowSubcategory:hover, .subRecordsGroup .recordRowContainer:hover{background-color:rgba(0,0,0,.06);}
+.sortable-handler{border:1px solid rgba(0,0,0,.06);background-color:#f6f6f6;}
+.rowSubcategory .sortable-handler{background-color:#f0f0f0;}
+.actionBtn:not(.activeRec):not(.text):hover a{color:#f6f6f6;}
+.actionBtn:not(.text):hover a.cColor{background-color:#3da8e5;}
+.actionBtn:not(.activeRec):not(.text):hover a.cRed{background-color:#d24b4b;}
+.actionBtn:not(.text):hover a.cDefault{background-color:#434343;}
+.actionBtn:not(.activeRec):not(.text):hover a.cGreen{background-color:#8dc466;}
+.actionBtn:not(.text):hover a.cGPastel{background-color:#72bcad;}
+.deleteSubmit{background-color:#d24b4b;color:#f6f6f6;}
+.deleteSubmit:hover{background-color:#dc5151;}
+.orangeBox, .categorySettingsTabs{background-color:#faf9f1;border-color:#e6e6e6;}
+.orangeBox .title, .categorySettingsTabs .title{background-color:#f1eedd;}
+.blueBox{background-color:#f4f7fa;border-color:#e6e6e6;}
+.blueBox .title{background-color:#e8edf3;}
+.yellowBox{background-color:#fdfdf4;border-color:#e6e6e6;}
+.yellowBox .title{background-color:#f5f5e9;}
+.categorySettingsTabs a.active{background-color:#faf9f1;}
+a.categorySettingsTab.cDefault:hover{color:#434343;}
+a.categorySettingsTab:hover{background-color:#faf9f1;}
+fieldset{border-color:rgba(224,224,224,.5)}
+.bgInactive{background-color:#f9eae9;}
+.cke_chrome{box-shadow:none !important;border-color:#e2e2e2 !important;}
+.cke_top, .cke_bottom{background-image:linear-gradient(to bottom,#f5f5f5,#ececec) !important;}
+.addNewTemp i{color:#8dc466;}
+.addNewTemp:hover{color:#f6f6f6;background-color:#8dc466;}
+.addNewTemp:hover i{color:#f6f6f6;}
+.topInternalTitle{border-color:rgba(224,224,224,.5);box-shadow:0 0px 5px rgba(0,0,0,.06);}
+.rowCategory, .rowRecord{border-bottom-color:rgba(224,224,224,.5);border-top-color:rgba(255,255,255,0.6);}
+.subRecordsGroup .rowRecord{border-top-color:rgba(255,255,255,0.6) !important;}
+.subRecordsGroup .recordRowContainer{border-bottom-color:rgba(224,224,224,.5);}
+.bottomarea{border-top-color:rgba(255,255,255,0.3);}
+.admLogo{filter:invert(1);}
+.headAreaPopup .cLight, .cLight.buttonLink{color:#fff !important;}
+.btnBorder:hover{background:rgba(255, 255, 255, 0.2);}
+a.liveEditBtn, a.websiteBtn{color:#fff !important;}
+.fancybox-bg{background:#d1d1d1 !important;}
+.publishOK.bgMedium{background-color:#b6b6b6;}
+.chosen-results li.highlighted{background-color:#2094d6 !important;color:#f6f6f6 !important;}
+.ADMhashtagCont:hover input ~ .ADMhashtag {color:#3da8e5;}
+.ADMhashtagCont input:checked ~ .ADMhashtag {color:#3da8e5;}

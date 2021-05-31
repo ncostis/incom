@@ -1,0 +1,112 @@
+*::-webkit-scrollbar { background-color: #434343;}
+*::-webkit-scrollbar-thumb { background-color: #8d9195; }
+.cLight{color:#d5d7d9;}
+a.cLight:hover{color:#f6f6f6;}
+.cColor{color:#2d8fc6;}
+.cGPastel{color:#72bcad;}
+.cMedium{color:#8d9195;}
+a.cMedium:hover{color:#2d8fc6;}
+.cDefault{color:#d5d7d9;}
+a.cDefault:hover, .formLabel .colInput:hover{color:#2d8fc6;}
+.cRed{color:#b44848;}
+a.cRed:hover{color:#b44848;}
+.cGreen{color:#5e933b;}
+.bgColor{background-color:#297fb0;}
+a.bgColor:hover, input.bgColor:hover{background-color:#3a91c2}
+.bgContent, html.cmspopup, .cmspopup body,iframe{background-color:#232425 !important;}
+.bgRed{background-color:#b44848;}
+a.bgRed:hover, input.bgRed:hover{background-color:#c85353;}
+.bgLight{background-color:#232425;}
+a.bgLight:hover{background-color:#292a2b;}
+.bgLighter{background-color:#292a2b;}
+.cTextheadRow{color:#d5d7d9;}
+.bgheadRows{background-color:#1d5785;}
+.bgTempHeadRow{background-color:#232425;}
+.bgSortableRow{background-color:#2d2e2f;}
+.sep-dots {border-bottom:1px dotted #48494b;}
+.bgPreviewCol{background-color:#1c1d1e;}
+.borderPrBox{border:2px solid #3d3e3f;}
+.borderPrBox:hover{border:2px solid #3392db;}
+.borderPrColInt{border-left:6px solid #2d2e2f;}
+.dTempCode{display:inline-block; border:3px solid #3d3e3f;background-color:#1c1d1e !important; padding:3px 27px 3px 20px;margin:auto;}
+.bgMedium{background-color:#2c3135;}
+.bgDark{background-color:#232425;}
+a.bgDark:hover{background-color:#292a2b;}
+a.btn.bgDark.active{background-color:#292a2b;}
+.bgGreen{background-color:#4d7830;}
+a.bgGreen:hover, input.bgGreen:hover{background-color:#558038;}
+.bgOrange{background-color:#ff9057}
+a.bgOrange:hover, input.bgOrange:hover{background-color:#ff9a66}
+a.cLight.active{color:#2d8fc6;}
+a.menuTopTab.cLight.active{color:#d5d7d9}
+a.admLink.cLight:not(.btn):hover{color:#2d8fc6;}
+html,body{color:#d5d7d9;background-color:#6d6e6f;}
+.fancybox-skin{background-color:#333 !important;}
+.admMenuPanel:hover .leftBackTitle.cMedium{color:#d5d7d9}
+.menuTabs a.active{background-color:#297fb0;}
+.formField, textarea, .chosen-single{border-color:rgba(255,255,255,.2) !important;color:#d5d7d9 !important;background-color:#1c1d1e !important;}
+.formField:focus, .chosen-container-active .chosen-single, .chosen-container-active .chosen-drop{border-color:#297fb0 !important;}
+.chosen-single *, .chosen-drop, .chosen-drop *{color:#d5d7d9 !important;background-color:#1c1d1e !important;background-image:none !important;}
+select.formField, .chosen-single{background-color:#1c1d1e !important;background-image:none !important;}
+.blueBox select.formField, .blueBox .chosen-single{background-color:#1b1f22 !important;}
+.orangeBox select.formField, .orangeBox .chosen-single{background-color:#22201b !important;}
+.yellowBox select.formField, .yellowBox .chosen-single{background-color:#1e1e17 !important;}
+.formField.cLight{color:#d5d7d9;}
+.formField:disabled{background-color:rgba(255,255,255,0.05);opacity:0.5;}
+.ADMImageBorder{background-color:rgba(0,0,0,0.2);}
+.borderLight{border-color:rgba(255,255,255,0.1) !important;}
+.borderMedium{border-color:#8d9195;}
+.borderDark{border-color:#6d6e6f;}
+.categoriesSitemap:hover{background:rgba(0,0,0,.06);}
+.recordRowContainer:hover{background:rgba(0,0,0,.06) !important;}
+.cssCont:hover{background:rgba(0,0,0,.06);}
+.recordRowContainer.active{background-color:rgba(234,245,251,.1);}
+.categoryDetails{background-color:rgba(0,0,0,.06);}
+.rowSubcategory:hover{background-color:rgba(0,0,0,.06);}
+.sortable-handler{border:1px solid rgba(0,0,0,.06);background-color:rgba(0,0,0,.02);}
+.rowSubcategory .sortable-handler{background-color:#232425;}
+.actionBtn:not(.activeRec):not(.text):hover a{color:#d5d7d9;}
+.actionBtn:not(.text):hover a.cColor{background-color:#297fb0;}
+.actionBtn:not(.activeRec):not(.text):hover a.cRed{background-color:#b44848;}
+.actionBtn:not(.text):hover a.cDefault{background-color:#434343;}
+.actionBtn:not(.activeRec):not(.text):hover a.cGreen{background-color:#4d7830;}
+.actionBtn:not(.text):hover a.cGPastel{background-color:#72bcad;}
+.deleteSubmit{background-color:#b44848;color:#d5d7d9;}
+.deleteSubmit:hover{background-color:#dc5151;}
+.orangeBox, .categorySettingsTabs{background-color:#262420;border-color:rgba(255,255,255,.1);}
+.orangeBox .title, .categorySettingsTabs .title{background-color:#22201b;}
+.blueBox{background-color:#202428;border-color:rgba(255,255,255,.1);}
+.blueBox .title{background-color:#1b1f22;}
+.yellowBox{background-color:#24241c;border-color:rgba(255,255,255,.1);}
+.yellowBox .title{background-color:#1e1e17;}
+.categorySettingsTabs a.active{background-color:#302e29;}
+a.categorySettingsTab.cDefault:hover{color:#d5d7d9;}
+a.categorySettingsTab:hover{background-color:#302e29;}
+fieldset{border-color:rgba(255,255,255,.1)}
+.bgInactive{background-color:#322b2b;}
+.cke_chrome{box-shadow:none !important;border-color:#333 !important;}
+.cke_top, .cke_bottom{background-image:linear-gradient(to bottom,#333,#333) !important;}
+.addNewTemp i{color:#4d7830;}
+.addNewTemp:hover{color:#f6f6f6;background-color:#4d7830;}
+.addNewTemp:hover i{color:#f6f6f6;}
+.topInternalTitle{border-color:rgba(255,255,255,.1);box-shadow:0 0px 5px rgba(0,0,0,.3);}
+.rowCategory, .rowRecord{border-bottom-color:rgba(0,0,0,.2);border-top-color:rgba(255,255,255,0.1);}
+.subRecordsGroup .rowRecord{border-top-color:rgba(255,255,255,0.1) !important;}
+.subRecordsGroup .recordRowContainer{border-bottom-color:rgba(255,255,255,0);background-color:#292a2b;border-color:rgba(0,0,0,.2) !important;}
+.subRecordsGroup .recordRowContainer:hover{border-bottom-color:rgba(255,255,255,0);background-color:#292a2b;}
+.bottomarea{border-top-color:rgba(255,255,255,0.1);}
+.templatesLinks{border-left-color:#5d8f3c;}
+.viewsLinks{border-left-color:#c68b15;}
+.modulesLinks{border-left-color:#2a83b6;}
+.cke_bottom{border:none !important;box-shadow:none !important;}
+.rowSubcategory{border-bottom:none;}
+.dropzone .dz-preview .dz-image img{opacity:0.9 !important;}
+.chosen-results li.highlighted{background-color:#297fb0 !important;color:#d5d7d9 !important;}
+input[type="checkbox"].ADMglobalColors:not(:checked) + label{box-shadow: 0 0 0px 1px #000, 0 0 2px 3px #0000001c;}
+.ADMhashtagCont:hover input ~ .ADMhashtag {color:#3da8e5;}
+.ADMhashtagCont input:checked ~ .ADMhashtag {color:#3da8e5;}
+.ADMFontAlignCont,.ADMFontStyleCont{color:#8d9195;}
+.ADMFontAlignCont:hover input ~ .ADMalign i,
+.ADMFontAlignCont input:checked ~ .ADMalign i,
+.ADMFontStyleCont:hover input ~ .ADMFontStyle,
+.ADMFontStyleCont input:checked ~ .ADMFontStyle {color:#d5d7d9 !important;}

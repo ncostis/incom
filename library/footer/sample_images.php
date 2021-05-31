@@ -1,0 +1,1 @@
+<div class="sampleText">-  All Images samples are <b>art impressions</b>. Actual room layout, size and decoration may vary from the images shown  -</div>

@@ -1,0 +1,1 @@
+<?php print number_format(Get_Adjusted_Price($GetRec['Rec_Price'], $GetRec['Rec_Discount'], $_SESSION['user']['Discount'], $GetRec['Rec_Scroll1']), 2, ',', '.') . " " . $ToCurrency; ?>

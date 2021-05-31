@@ -1,0 +1,10 @@
+# robots.txt
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /_cm_admin/
+Disallow: /uploads/files/
+Disallow: /uploads/files2/
+Disallow: /uploads/files_rat/
+Disallow: /uploads/files_rat2/
+Disallow: /uploads/docs/
+Disallow: /uploads/docs2/

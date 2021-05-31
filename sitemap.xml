@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="https://www.google.com/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost/</loc>
+</url>
+  <url>
+    <loc>http://localhost/corfu-hotel/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/corfu-luxury-suites/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/corfu-restaurants/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/corfu-beach-hotel/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/pool-area/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/experiences/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/corfu-hotel-location/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/explore-corfu/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/explore-corfu/384/old-town/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/explore-corfu/385/the-nature/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/explore-corfu/386/the-beaches/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/photo-gallery/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/contact-us/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/privacy-policy-en/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/downloads/</loc>
+  </url>
+</urlset>

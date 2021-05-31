@@ -1,0 +1,145 @@
+/****	default link	****/
+
+a:not(.bodyLinks){
+-webkit-transition:all 300ms cubic-bezier(0,.5,3,1);
+-moz-transition:all 300ms cubic-bezier(0,.5,.3,1);
+-o-transition:all 300ms cubic-bezier(0,.5,.3,1);
+transition:all 300ms cubic-bezier(0,.5,.3,1);
+}
+
+a.link, a {font-size:13px;font-weight:normal;text-decoration:none;}
+a:hover {text-decoration:none;}
+
+a.linkNone { font-size: 13px;text-decoration: none;}
+a:hover.linkNone { text-decoration: none;}
+
+
+/*############ NEW INCOM #################*/
+
+a span{cursor:pointer;}
+a i, button i{font-size:1.2em;width:20px !important;}
+a.recordLinkList i, a.recordLink i{font-size:.8em;}
+
+a.liveEditBtn, a.websiteBtn{display:inline-block;float:left;font-size:13px;padding:14px 20px;}
+a.liveEditBtn i, a.websiteBtn i{margin-top:-3px;vertical-align:middle;}
+a.websiteBtn{}
+a.websiteBtn:hover{}
+
+.menuTabs a{padding:10px;text-align:center;display:inline-block;flex:1;font-size:14px;}
+
+
+a.topMenuLink{font-size:13px; font-weight:500; line-height: 43px; text-decoration:none; padding:0 10px;border-bottom:1px solid transparent;display: inline-block;}
+
+a.admLink{display:block;padding:4px 5px;}
+
+a.btn{padding:16px 20px;border-bottom:1px solid rgba(0,0,0,0.2);border-top:1px solid rgba(255,255,255,0.1);line-height:1.4em;}
+
+a.addCategory{position:absolute;top:8px;left:10px;}
+
+a.categoryLink{text-decoration:none;display:block;padding:10px 50px;}
+.subcategoriesSitemap a.categoryLink{font-size:13px;}
+
+a.categoriesLink{padding:0 15px;}
+
+.convertTextBtn{display:inline-block;}
+
+.editBtn{padding:5px 10px;display:flex;align-items:center;}
+
+a.logout{margin-right:30px;}
+a.logout i{top:1px;position:relative;}
+
+a.recordLink{padding:10px 0px;display:inline-block;}
+a.recordLinkList, span.recordLinkList{text-decoration:none;display:block;padding:10px 20px;}
+
+a.topBLink{font:inherit;color:inherit;}
+/*############ END NEW INCOM #################*/
+
+a.listLinks { font-size: 14px;  font-weight: 400; color: #273e4e; text-decoration: none;}
+a:hover.listLinks { color: #D4110F; text-decoration: none;}
+
+a.listLinksPopup { font-size:14px;  font-weight:400; color: #273e4e; text-decoration: none;}
+a:hover.listLinksPopup { color: #1b65a5; text-decoration: none;}
+
+a.listLinksS2 { font-size: 14px; font-weight: normal; color: #273e4e; text-decoration: none;}
+a:hover.listLinksS2 { color: #D80004; text-decoration:none;}
+
+a.toplinks { font-size: 12px; color:#00506b; text-decoration: none;}
+a:hover.toplinks { font-size: 12px; color:#00506b; text-decoration:underline;}
+
+a.bodylinks { font-size: 14px;  font-weight:400; text-decoration: none;}
+a:hover.bodylinks { text-decoration: none; }
+
+a.titlelinks { font-size: 15px;  font-weight:400; text-decoration: none;}
+a:hover.titlelinks { text-decoration: none; }
+
+a.whitelink { font-size: 12px; font-weight: normal; color: #fff; text-decoration: none;}
+a:hover.whitelink { font-size: 12px; font-weight: normal; color: #fff; text-decoration:underline;}
+
+a.whitelinkSM1 { font-size: 11px; font-weight: normal; color: #fff; text-decoration: none;}
+a:hover.whitelinkSM1 { font-size: 11px; font-weight: normal; color: #fff; text-decoration:none;}
+
+a.edittemplate {  border: none; font-size: 15px; font-weight:400; color:#ffffff; padding:8px 15px 8px 15px;  background:#33a5db; background:-webkit-gradient(linear,left top,left bottom,from(#33a5db),to(#2186b6)); background:-moz-linear-gradient(top,#33a5db,#2186b6); border-radius:4px; cursor: pointer; text-decoration: none; }
+a:hover.edittemplate {  background: #f46c08; background:-webkit-gradient(linear,left top,left bottom,from(#ff9018),to(#f46c08)); background:-moz-linear-gradient(top,#ff9018,#f46c08); }
+
+a.buttonLink, input.buttonLink, button.buttonLink{outline:none;border:none;margin:0 10px;padding:8px 15px 8px 15px;border-radius:3px;cursor:pointer;text-decoration:none;}
+
+a.buttonLinkb {  border: none;margin:0 10px;padding:8px 15px 8px 15px; background: #33a5db; border-radius: 3px; color: #FFF; cursor: pointer; font-size: 12px; font-weight:700; text-decoration: none; }
+a:hover.buttonLinkb {  background: #f46c08; }
+
+a.tabPopup { display:inline; padding:2px 10px 2px 10px; line-height:28px; font-size:12px; text-decoration: none; color:#085568; border:1px solid #dcd9b3; background-color:#fefef3; margin-right:6px; }
+a:hover.tabPopup { color: #fff; background-color:#5c8fad; border:1px solid #5c8fad; }
+a.tabPopupSel { display:inline; padding:2px 10px 2px 10px; line-height:28px; font-size:12px; text-decoration: none; color: #fff; background-color:#5c8fad; border:1px solid #5c8fad; margin-right:6px; }
+
+a.cancel{font-size:16px;font-weight:500;text-decoration: none;display:table;margin:auto;}
+
+a.cancelSm{font-size:13px;font-weight:500;color:#b7393a;text-decoration: none;display:inline;margin:auto;margin-left:12px;}
+
+a.preview{font-size:17px;font-weight:400;color:#4f4f4f;background-color:#fff;border:1px solid #a9a9a9;padding:7px 16px;border-radius:6px;text-decoration: none;display:table;margin:auto;}
+a:hover.preview{background-color:#dedede;}
+a.preview i{padding-left:5px;color:#6c6c6c;}
+
+@media (max-width: 1380px) {
+a.bodylinks { font-size: 13px;  font-weight:400; color: #085568; text-decoration: none;}
+a:hover.bodylinks { color: #D4110F; text-decoration: none; }
+
+a.listLinks { font-size: 13px;  font-weight: 400; color: #085568; text-decoration: none;}
+a:hover.listLinks { color: #D4110F; text-decoration: none;}
+
+a.listLinksS2 { font-size: 13px; font-weight: normal; color: #085568; text-decoration: none;}
+a:hover.listLinksS2 { font-size: 12px; font-weight: normal; color: #D80004; text-decoration:none;}
+} /* end of @media (max-width: 1280px) */ 
+
+
+@media (max-width: 1180px) {
+a.bodylinks { font-size: 12px;  font-weight:400; color: #085568; text-decoration: none;}
+a:hover.bodylinks { color: #D4110F; text-decoration: none; }
+
+a.topMenuLink{ font-size:12px; padding: 0 7px; padding: 0 0px;}
+a.topMenuLink img{ transform:scale(0.9);}
+a.topMenuLink:hover img{ transform:scale(1.1);}
+
+a.editRightFrame { display:block; font-size:11px; font-weight:normal; padding-top:5px; text-decoration:none;}
+a:hover.editRightFrame { font-size: 11px; font-weight: normal; text-decoration:none;}
+
+a.listLinks { font-size: 12px;  font-weight: 400; color: #085568; text-decoration: none;}
+a:hover.listLinks { color: #D4110F; text-decoration: none;}
+
+a.listLinksS2 { font-size: 12px; font-weight: normal; color: #085568; text-decoration: none;}
+a:hover.listLinksS2 { color: #D80004; text-decoration:none;}
+} /* end of @media (max-width: 1280px) */ 
+
+
+@media (max-width: 680px) {
+	.divHide{ display:none; }
+	.topMenuLink{ line-height:20px; }
+	a.rootMenu{ line-height:36px; font-size:14px; font-weight:500; background:#dee4e9; color:#48515d; padding-left:20px; border-bottom:1px solid #ccc; text-decoration:none;}
+} /* end of @media (max-width: 680px) */ 
+
+
+/* NEW LINKS */ 
+
+a.ADMtabPopupSel{
+	display:inline; padding:4px 15px 2px 15px; font-size:12px; text-decoration: none; border:1px solid transparent;border-bottom: none; margin-right:6px; border-radius: 8px 8px 0px 0px;}
+a.ADMtabPopup{
+	display:inline; padding:4px 15px 2px 15px; font-size:12px; text-decoration: none; border:1px solid transparent;border-bottom: none; margin-right:6px; border-radius: 8px 8px 0px 0px;}
+a:hover.ADMtabPopup{border-color:initial;}

@@ -1,0 +1,135 @@
+.hpTridavisor{
+		float:left;
+		padding-top: 25px;
+		margin-left: 5px;
+		width: 16px;
+		height: 16px;
+		display: table;
+		background: url(tripadvisor.png) no-repeat scroll right center;
+	}
+
+	.hpTripadvisor-wrapper #CDSROWLOC124,#CDSROWLOGO124{
+		display: none !important;
+	}
+	.hpTripadvisor-wrapper .TA_cdsratingsonlywide img{
+		display: none;
+	}
+	.hpTripadvisor-wrapper .TA_cdsratingsonlywide{
+		margin-right: 12px !important;
+	}
+	.hpTripadvisor-wrapper .cdsComponent,.hpTripadvisor-wrapper .cdsROW,.hpTripadvisor-wrapper .cdsROWContainer  {
+		display: table !important;
+		height: 25px !important;
+		background-color: #ececec !important;
+		white-space: pre-wrap !important;
+
+	}
+	.hpTripadvisor-wrapper .cdsRating,.hpTripadvisor-wrapper .cdsRating span{
+		padding-right: 0px !important;
+		display: table;
+		margin:3px auto;
+	}
+	.hpInfoIcon{
+		width:15px;
+		height:15px;
+		display: table;
+		float:left;
+		margin-top: -2px;
+		padding-bottom: 21px;
+		margin-bottom: -10px;
+		background: url(info.png) no-repeat scroll right center;
+	}
+	.hpInfoIcon:hover >.hpInfoContent>.hpInfoText>.hpMadeBy{
+		opacity: 1;
+		z-index: 1;
+		transition: all 0.5s ease 0.3s;
+	}
+	.hpInfoIcon:hover >.hpInfoContent>.hpInfoText{
+		opacity: 1;
+		z-index: 1;
+		transition: all 0.5s ease 0.2s;
+	}
+	.hpInfoIcon:hover >.hpInfoContent{
+		opacity: 1;
+		z-index: 9;
+		padding-bottom:255px;
+		transition: padding 0.5s ease 0s;
+	}
+	.hpInfoContent{
+		background-color: #fff;
+    	width: 230px !important;
+    	max-width: 230px !important;
+    	position: absolute;
+	    top: 39px;
+	    right: 0;
+	    height: 0;
+	    left: 0;
+	    padding-bottom:0;
+	    z-index: 1;
+	    opacity: 0;
+	    overflow: hidden;
+	    transition: all 0.5s ease 0s;
+	}
+	.hpInfoText{
+		width: 90%;
+		margin:auto;
+		padding: 10% 0px 35% 0px;
+		font-size: 16px;
+		line-height: normal;
+		font-weight: 300;
+		text-align: center;
+		opacity: 0;
+		z-index: -1;
+		position: relative;
+	}
+	.hpmarquee {
+	    overflow: hidden;
+	    white-space: nowrap;
+	    animation: marquee 8s linear infinite;
+	    -webkit-animation: marquee 8s linear infinite;
+	}
+	a.hpMadeBy{
+		position: absolute;
+		bottom: 15px;
+		z-index: 0;
+		left:0;
+		right:0;
+		width: 181px;
+		height: 35px;
+		display: table;
+		margin:auto;
+		opacity: 0;
+		background: url(logo.png) no-repeat scroll right center;
+	}
+	.hotelIcon{
+		float:left;
+		padding-top:17px;
+		width: 17px;
+		height: 12px;
+		margin-left: 7px;
+		display: table;
+		background: url(hotel.png) no-repeat scroll right center;
+	}
+	.bookingDotComIcon{
+		float:left;
+		padding-top:8px;
+		width: 16px;
+		height: 16px;
+		margin-left: 5px;
+		display: table;
+		background: url(booking.png) no-repeat scroll right center;
+	}
+	.expediaIcon{
+		float:left;
+		padding-top:8px;
+		width: 16px;
+		height: 16px;
+		margin-left: 5px;
+		display: table;
+		background: url(expedia.png) no-repeat scroll right center;
+	}
+	.hpExtPrice a{
+		display:none;
+	}
+	@-webkit-keyframes hvr-ripple-out{100%{top:-12px;right:-12px;bottom:-12px;left:-12px;opacity:0}}@keyframes hvr-ripple-out{100%{top:-12px;right:-12px;bottom:-12px;left:-12px;opacity:0}}.hotelPrice-buttonWrapper.hvr-ripple-out{display:inline-block;vertical-align:middle;-webkit-transform:translateZ(0);transform:translateZ(0);box-shadow:0 0 1px rgba(0,0,0,0);-webkit-backface-visibility:hidden;backface-visibility:hidden;-moz-osx-font-smoothing:grayscale;}.hotelPrice-buttonWrapper.hvr-ripple-out:before{content:'';position:absolute;border-radius:50%;top:0;right:0;bottom:0;left:0;-webkit-animation-duration:1s ;animation-duration:1s ;animation-iteration-count: infinite;}.hotelPrice-buttonWrapper.hvr-ripple-out:before,.hotelPrice-buttonWrapper.hvr-ripple-out:active:before,.hotelPrice-buttonWrapper.hvr-ripple-out:focus:before,.hotelPrice-buttonWrapper.hvr-ripple-out:hover:before{-webkit-animation-name:hvr-ripple-out;animation-name:hvr-ripple-out}
+	@keyframes marquee {0%   { text-indent: 250px }100% { text-indent: -250px }}@-webkit-keyframes marquee {0%   { text-indent: 250px }100% { text-indent: -250px }}

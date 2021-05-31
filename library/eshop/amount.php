@@ -1,0 +1,1 @@
+<input type="text" name="amount" size="1" class="formfields">
